@@ -1,0 +1,24 @@
+<style scoped='scoped' type='text/css'>
+#news { background:#1B334B;
+background-image:url(http://3.bp.blogspot.com/-QEMx2CuFA4c/U8czinJNzsI/AAAAAAAAEbU/97mIe_AehCo/s1600/color_line.png);background-repeat:repeat-x;
+background-position:bottom center;
+margin:0 auto;
+padding:5px 0 0;
+word-wrap:break-word;
+border-top: 0px solid #333; display: block; float: left; height: 25px; line-height: 25px; overflow: hidden; padding: 8px 0 0 0px; width: 100%; }
+.titlenews {color: #fff; display: block; float: left; font: bold 12px/22px Tahoma; padding: 6px 0 0 10px;margin: -7px 0 0 0; position: absolute; }
+#ltsposts {float: left;margin: -3px 0px 0px 137px;text-align: left;}
+#ltsposts ul,#ltsposts li{list-style:none;margin:0;padding:0;}
+#ltsposts li a { background: none !important; color:#fff !important; font: bold 12px/22px Tahoma; text-decoration: none; }
+ul.shsocial { background:#333; float: right; margin: -8px 0; }
+ul.shsocial li {float:left;list-style: none outside none;border:none;}
+ul.shsocial li a{background-color:transparent;background-image:url(http://4.bp.blogspot.com/-Pe-J5S7YCa0/UdXsJoN7GLI/AAAAAAAAL68/ongZAtcNF1E/s1600/spice-social-gadget-sprite.png);background-repeat:no-repeat;background-size:auto 96px;border:0 none;color:white;direction:ltr;display:block; height:32px;overflow:hidden;text-align:left;text-decoration:none;text-indent:-999em;transition:all 0.2s ease 0s;width:32px}
+ul.shsocial li.fb a{ background-position:0 0}
+ul.shsocial li.gp a{ background-position:-96px 0}
+ul.shsocial li.rs a{ background-position:-192px 0}
+ul.shsocial li.tw a{ background-position:-256px 0}
+ul.shsocial li.fb a:hover{ background-position:0 -32px}
+ul.shsocial li.gp a:hover{ background-position:-96px -32px}
+ul.shsocial li.rs a:hover{ background-position:-192px -32px}
+ul.shsocial li.tw a:hover{ background-position:-256px -32px}
+</style>
